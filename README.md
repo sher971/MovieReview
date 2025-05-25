@@ -1,4 +1,4 @@
-# 🎬 MovieGold
+# 🎬 MovieReview
 
 A modern and interactive movie web app built with React. Browse movies, watch trailers, and post reviews — all in one sleek interface.
 
